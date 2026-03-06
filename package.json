@@ -2,5 +2,6 @@
   "name": "lab2",
   "version": "1.0.0",
   "author": "Artem",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
